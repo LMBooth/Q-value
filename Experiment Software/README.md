@@ -5,6 +5,8 @@ The following repository hosts custom made Python code which was developed for t
 The experimental procedure entails 48 questions between Q-values of 0.6-6.99, each question set is randomised but has 3 questions from each of the 16 Q-value buckets separated by a space of 0.4.
 i.e. 2 questions from 0.6-0.99 Q-value, 2 questions from 1.00-1.39... 2 questions from 6.60-6.99.
 
+Please note: Kivy will not work on Python 3.8+, only Python 3.7< is acceptable.
+
 ## Install Python Dependencies 
 
 ```bash
