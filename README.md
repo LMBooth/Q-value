@@ -9,7 +9,7 @@ The following repositories are all written in Python 3+ and utilises the kivy 1.
 - [Extended Q-Value Experiment Software](https://github.com/LMBooth/Q-value/tree/master/Experiment%20Software )
 
 # Acknowledgements 
-M. Barras for helping adminster the testing procedure and developing experimental concepts.
+M. Barras for helping develop interpretations and concepts of Thomas' Q.
 
 S. Martin for guidance and knowledge in cognitive research and experimental design.
 
